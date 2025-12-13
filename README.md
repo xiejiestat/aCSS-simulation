@@ -1,12 +1,12 @@
-# aCSS-simulation
+# A Generalized Framework for Approximate Co-Sufficient Sampling
 
-This repository provides simulation code for **Approximate Co-Sufficient Sampling (aCSS)**, a novel resampling framework for generating synthetic copies and conducting statistical inference.
+This repository contains simulation code for **Approximate Co-Sufficient Sampling (aCSS)**, a generalized resampling framework for constructing synthetic copies and performing statistical inference.
 
-The implementation is intended to support the experimental results in our accompanying paper and to facilitate reproducibility and further methodological development.
+The code is designed to reproduce the simulation results in the accompanying paper and to serve as a reference implementation for further research and extensions.
 
 ## Reference
 
 Xie, J. and Huang, D. (2025).  
-*Approximate Co-Sufficient Sampling*.  
+* A Generalized Framework for Approximate Co-Sufficient Sampling*.  
 arXiv:2506.12334  
 https://arxiv.org/abs/2506.12334
